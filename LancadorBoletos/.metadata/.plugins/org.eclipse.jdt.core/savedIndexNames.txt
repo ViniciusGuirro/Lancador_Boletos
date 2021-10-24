@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+C:\Users\Meu\Documents\LancadorBoletos\.metadata\.plugins\org.eclipse.jdt.core
+1953705911.index
+1248545562.index
+3715966170.index
+403745209.index
+1978761938.index
+453935264.index
+997712027.index
+2426495619.index
+2928631952.index
+2383016613.index
